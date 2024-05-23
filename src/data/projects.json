@@ -1,0 +1,26 @@
+[
+  {
+    "title": "weather app",
+    "imageSrc": "projects/weather.png",
+    "description": ["My first project that I have done. I learn new skills from this project ","hiii"],
+    "skills":["HTML","CSS"],
+    "demo": "https://virendra005.github.io/Weather/",
+    "source": "https://github.com/Virendra005/Weather"
+  },
+  {
+    "title": "Netflix clone",
+    "imageSrc": "projects/netflix.png",
+    "description": "In this project I clone the netflix home page. Batter css included in this project.",
+    "skills": ["HTML","CSS","Js"],
+    "demo": "https://virendra005.github.io/Netflix-home/",
+    "source": "https://github.com/Virendra005/Netflix-home"
+  },
+  {
+    "title": "Rent Up",
+    "imageSrc": "projects/renthome.png",
+    "description": "Complete react project to the rent house from diffrent places. ",
+    "skills": ["React", "CSS", "Js"],
+    "demo": " https://funny-daffodil-350bc9.netlify.app/",
+    "source": "https://github.com/Virendra005/RentHouse"
+  }
+]
